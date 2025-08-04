@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋, I'm Pallavi Chaudhary</h1>
 <h3 align="center">"Engineering my future with code | DSA × Python × AI | Building with purpose, learning without limits</h3>
 
@@ -34,3 +36,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pallavi-325&show_icons=true&locale=en" alt="pallavi-325" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pallavi-325&" alt="pallavi-325" /></p>
+
+
+
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
