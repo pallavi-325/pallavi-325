@@ -5,7 +5,6 @@
 <h1 align="center">Hi 👋, I'm Pallavi Chaudhary</h1>
 <h3 align="center">"Engineering my future with code | DSA × Python × AI | Building with purpose, learning without limits</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pallavi-325&label=Profile%20views&color=0e75b6&style=flat" alt="pallavi-325" /> </p>
 
 - 🔭 I’m currently working on **Solving daily DSA problems (Striver Sheet grind!) ,Learning Python for real-world applications , Small projects in HTML, CSS, and JavaScript**
 
