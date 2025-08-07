@@ -49,3 +49,21 @@
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
+
+
+
+
+
+
+
+🚨 Disclaimer
+
+All code and content in this repository is created by Pallavi Chaudhary.  
+It is shared for learning and inspiration purposes only.
+
+🛑 Reproduction, reuse, or distribution of this code without explicit permission is **not allowed**.
+
+📩 If you'd like to collaborate or learn from this work, feel free to reach out!
+
