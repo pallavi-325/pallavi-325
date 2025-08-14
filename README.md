@@ -9,11 +9,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pallavi-325&label=Profile%20views&color=0e75b6&style=flat" alt="pallavi-325" /> </p>
 
 
-- 🔭 I’m currently working on **Solving daily DSA problems (Striver Sheet grind!) ,Learning Python for real-world applications , Small projects in HTML, CSS, and JavaScript**
+- 🔭 I’m currently working on **Solving daily DSA problems , Small projects in HTML, CSS, and JavaScript**
 
 
 
-- 👯 I’m looking to collaborate on **Beginner-friendly Python or web development projects , AI projects where, I can contribute and learn , Anything related to women in tech or student dev communities**
 
 - 🤝 I’m looking for help with **Understanding core web development concepts (JS, backend),Tips for building impactful LinkedIn and GitHub profiles,Guidance on internship prep and open source contribution**
 
