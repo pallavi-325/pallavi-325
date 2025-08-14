@@ -11,17 +11,17 @@
 
 - 🔭 I’m currently working on **Solving daily DSA problems (Striver Sheet grind!) ,Learning Python for real-world applications , Small projects in HTML, CSS, and JavaScript**
 
-- 🌱 I’m currently learning **dsa , python , full stack**
+
 
 - 👯 I’m looking to collaborate on **Beginner-friendly Python or web development projects , AI projects where, I can contribute and learn , Anything related to women in tech or student dev communities**
 
 - 🤝 I’m looking for help with **Understanding core web development concepts (JS, backend),Tips for building impactful LinkedIn and GitHub profiles,Guidance on internship prep and open source contribution**
 
-- 📝 I regularly write articles on [Planning to start soon .](Planning to start soon .)
+
 
 - 💬 Ask me about **My DSA progress or how I stay consistent ,How to start when you feel like you know nothing**
 
-- 📄 Know about my experiences [Still learning — but I’m growing through daily practice, code reviews, and building in public.](Still learning — but I’m growing through daily practice, code reviews, and building in public.)
+
 
 - ⚡ Fun fact **I used to think I couldn’t code — now I enjoy solving DSA problems daily!**
 
