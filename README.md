@@ -3,26 +3,9 @@
 </p>
 
 ## <h1 align="center">Hi 👋, I'm Pallavi Chaudhary</h1>
-<h3 align="center">"Engineering my future with code | DSA × Python × AI | Building with purpose, learning without limits</h3>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pallavi-325&label=Profile%20views&color=0e75b6&style=flat" alt="pallavi-325" /> </p>
-
-
-- 🔭 I’m currently working on **Solving daily DSA problems , Small projects in HTML, CSS, and JavaScript**
 
 
 
-
-- 🤝 I’m looking for help with **Understanding core web development concepts (JS, backend),Tips for building impactful LinkedIn and GitHub profiles,Guidance on internship prep and open source contribution**
-
-
-
-- 💬 Ask me about **My DSA progress or how I stay consistent ,How to start when you feel like you know nothing**
-
-
-
-- ⚡ Fun fact **I used to think I couldn’t code — now I enjoy solving DSA problems daily!**
 
 ## <h3 align="left">Connect with me:</h3>
 <p align="left">
